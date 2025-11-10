@@ -1,9 +1,13 @@
 # Lab7Web
 
 # Praktikum PHP Dasar – Program Data Diri  
+
 **Nama:** Amelia Nurmala Dewi  
+
 **NIM:** 312410199  
+
 **Kelas:** TI.24.A.2 
+
 **Mata Kuliah:** Pemrograman Web 1
 
 
