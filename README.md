@@ -11,7 +11,7 @@
 
 ### 1. Menampilkan Teks Pertama
 
-<img width="1069" height="677" alt="Screenshot (1114)" src="https://github.com/user-attachments/assets/843a2393-576a-4bdb-ae11-f1b722a02243" />
+<img width="1072" height="670" alt="Screenshot (1116)" src="https://github.com/user-attachments/assets/fbceedd9-6c20-46a8-91bd-0cbc104b7283" />
 
 
 Latihan awal menggunakan fungsi `echo` untuk menampilkan tulisan di browser.
